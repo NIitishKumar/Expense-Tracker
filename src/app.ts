@@ -21,7 +21,7 @@ async function createUser() {
 
   console.log('User created:', user.toJSON());
 }
-
+ 
 createUser();
 
 
